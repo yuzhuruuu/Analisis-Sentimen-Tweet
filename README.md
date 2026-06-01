@@ -97,13 +97,18 @@ Model dapat digunakan langsung untuk memprediksi sentimen teks baru:
   **Output:** Negatif
 
 ---
+## Google Colab
+
+(https://colab.research.google.com/drive/1uc_71mYgpkzgtp5MkwDuAGbFcE88BNzo?usp=sharing)
+
+---
 
 ## Cara Menjalankan Proyek
 
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME_KAMU/NAMA_REPO.git
+git clone https://github.com/yuzhuruuu/Analisis-Sentimen-Tweet.git
 cd NAMA_REPO
 ```
 
